@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SemProject</string>
+
+    <string name="first_slide">Choose Your Mobile</string>
+    <string name="second_slide">Fast Delivery</string>
+    <string name="third_slide">Good Service</string>
+
+
+    <string name="description">Mobile Store App which has all the mobiles of android, iOS and provides fastest delivery </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
